@@ -1,0 +1,4 @@
+# No build outputs here: installer builds live in the app workspace only.
+Thumbs.db
+.DS_Store
+*.log
